@@ -1,0 +1,27 @@
+From: billing@techsupplies.com
+To: accounts@mycompany.com
+Subject: Invoice #INV-2025-001
+
+Dear Accounts Team,
+
+Please find below invoice details for services rendered in May 2025.
+
+Invoice Number: INV-2025-001
+Invoice Date: May 1, 2025
+Due Date: May 31, 2025
+Vendor: Tech Supplies Inc
+
+Line Items:
+1. Cloud Storage Service - 12 months - $500.00
+2. Technical Support - 10 hours - $750.00
+3. Software License - 1 year - $1,200.00
+
+Subtotal: $2,450.00
+Tax (10%): $245.00
+Total Due: $2,695.00
+
+Please process payment at your earliest convenience.
+
+Regards,
+Billing Department
+Tech Supplies Inc
